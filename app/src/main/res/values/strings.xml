@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Try_01</string>
+    <string name="todo">TODO</string>
+    <string name="profile">Profile</string>
+    <string name="here_video_of_my_experience">Here, Video of my Experience</string>
+    <string name="rating">Please Rate Me</string>
+</resources>
